@@ -344,7 +344,8 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #3d4044 !important;
+  
+    background-image: url(/img/studiowallpaper.jpg)
 }
 
 .bg-secondary {
